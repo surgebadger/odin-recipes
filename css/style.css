@@ -1,14 +1,10 @@
-.first {
-  background-color: black;
-  color: white;
+.avatar .proportioned {
+  height:auto
+  width: 300px
 }
 
-
-.second {
-  background-color: yellow;
+.distorted .avatar {
+  height: 400px
+  width: 200px
 }
 
-
-.both {
-font-size: 28px; font-family: "helevetica" 'Times New Roman', sans-serif;
-}
