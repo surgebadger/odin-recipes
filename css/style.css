@@ -1,15 +1,7 @@
-.avatar.proportioned {
-  height:auto;
-  width: 300px;
-}
+.parent, .child {
 
-.avatar.distorted {
-  height: 400px;
-  width: 200px;
-}
-
-.top {
-
-  background-color: cornflowerblue;
+background-color: yellow;
+color: red;
+font-size: 20px;
 
 }
