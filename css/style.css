@@ -2,22 +2,21 @@ body {
     font-family: Arial, Helvetica, sans-serif;
   }
   
-
+  .para {
+    font-size: 22px;
+    font-weight: bolder;
   
-  .small-para {
+  .para small-para {
     font-size: 14px;
     font-weight: bolder;
   }
   
-  .para {
-    font-size: 22px;
-    font-weight: bolder;
-  }
   
   #confirm-button {
     background: green;
     color: white;
     font-weight: bold;
+    font-size: 20px;
   } 
   
   #cancel-button {
