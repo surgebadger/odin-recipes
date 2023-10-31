@@ -13,6 +13,12 @@ body {
     font-weight: bold;
     font-size: 20px;
   } 
+
+#confirm-button:hover {
+
+    background-color: aqua;
+
+}
   
 #cancel-button {
     background-color: rgb(255, 255, 255);
