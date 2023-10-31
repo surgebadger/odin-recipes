@@ -38,3 +38,8 @@ body {
     font-size: 14px;
   }
   
+  .small-para {
+    color: hsl(0, 0%, 0%);
+    font-weight: 800;
+
+  }
